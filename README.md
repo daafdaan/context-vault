@@ -6,10 +6,10 @@ Curated links for designers and engineers who build with Claude Code. Point Clau
 
 ### Ad-hoc — in any Claude Code session
 
-Ask Claude to read this repo and fetch what's relevant:
+Clone the repo, then ask Claude to fetch what's relevant:
 
 ```
-Read ~/Projects/context-vault/README.md and fetch the /ui-ux/ links — I'm building a micro-interaction
+Fetch the /ui-ux/ links from context-vault — I'm building a micro-interaction
 ```
 
 ```
@@ -22,10 +22,10 @@ Fetch the claude-code-skills links, I want to set up a new skill
 
 ### Automatic — add to your project's CLAUDE.md
 
-Add this line to any project's `CLAUDE.md` so Claude checks the vault before building:
+Add this to any project's `CLAUDE.md` so Claude checks the vault before building:
 
 ```
-Before building UI or choosing libraries, read ~/Projects/context-vault/README.md and fetch relevant links for context.
+Before building UI or choosing libraries, fetch relevant links from https://github.com/daafdaan/context-vault for context.
 ```
 
 This makes every session in that project aware of the vault without you having to remember.
