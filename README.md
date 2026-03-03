@@ -29,3 +29,6 @@
 ## /swift/
 - https://github.com/amosgyamfi/open-swiftui-animations
 - https://github.com/Toni77777/awesome-swiftui-libraries
+
+## /mcp-servers/
+- https://github.com/upstash/context7
